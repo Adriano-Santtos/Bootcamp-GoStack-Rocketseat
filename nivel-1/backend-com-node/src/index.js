@@ -12,7 +12,6 @@ const projects = []; //usada par armazenar os dados da apliccação, jamais util
 
 
 
-
 app.get('/projects', (request, response) => {
 
   const {title} = request.query; //filtro criado para title
