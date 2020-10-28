@@ -1,24 +1,30 @@
-import React from 'react';
+import React, { useState} from 'react';
+
+import backgroundImage from './assets/background.jpg'
+import './App.css';
 
 import Header from './components/Header';
 
 function App () {
+    const [projects, setProjects] = useState(['Desenvolvimento de app', 'Front-end Web']);
+
+    function handleAddProject () { 
+        setProjects([...projects, `Novo Projeto ${Date.now()}`]),
+
+        console.log(projects);
+    }
+
     return (
-    <>
-    <Header title="Homepage">
+        <>
+        <Header title = "Projects"/>
+        <img width={500} src = {backgroundImage} />
+
         <ul>
-            <li> Homepage</li>
-            <li> projects</li>
+            {projects.map(project => <li key = { project}>{project}</li>)}
         </ul>
-     </Header>
-    <Header title="projects">
-        <ul>
-            <li>Homepage</li>
-            <li>Projects</li>
-            <li>Login</li>
-        </ul>
-    </Header>
-    </>
+
+        <button type="button" onClick={handleAddProject}>Adicionar Projeto</button>
+        </>
     );
 }
 
