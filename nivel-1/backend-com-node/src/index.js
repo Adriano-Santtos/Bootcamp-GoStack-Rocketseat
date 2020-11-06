@@ -1,9 +1,12 @@
 const express = require ('express');
 
+const cors = require ('cors');
+
 const  { uuid, isUuid } = require ('uuidv4');  // cria um id únido para cada projeto
 
 const app = express ();
 
+app.use(cors()); // qualquer front end de qualquer url pode acessar nosso backend
 app.use(express.json());
 app.use('/projects/:id ', validadeProjectId);
 

@@ -6,6 +6,8 @@ import api from './services/api';
 
 import Header from './components/Header';
 
+
+
 function App () {
     const [projects, setProjects] = useState([]);
  
@@ -15,8 +17,18 @@ function App () {
       });
     }, []);//array de dependências
 
-    function handleAddProject() {
-        setProjects([...projects, `Novo Projeto ${Date.now()}`]);
+
+    async function handleAddProject() {
+        //setProjects([...projects, `Novo Projeto ${Date.now()}`]);
+
+        const response = await api.post('projects', {
+            title: `Novo projeto  ${Date.now()}`,
+            owner: "Adriano Santos" 
+        });
+
+        const project = response.data;
+
+        setProjects([... projects, project]);
     }
 
 
