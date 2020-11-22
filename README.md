@@ -4,6 +4,9 @@
 
 Class notes and codes produced during the rocketseat gostack bootcamp.
 
+
+----
+
 # What is bootcamp gostack
 [GoStack](https://pages.rocketseat.com.br/gostack) is an 8-week practical, intensive and online training focused on Node.js, ReactJS and React Native developed by [RocketSeat](https://rocketseat.com.br/). 
 
