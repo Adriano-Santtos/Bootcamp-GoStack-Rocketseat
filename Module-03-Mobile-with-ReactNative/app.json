@@ -1,0 +1,12 @@
+{
+  "name": "Module-03-Mobile-with-ReactNative",
+  "displayName": "Module-03-Mobile-with-ReactNative",
+  "expo": {
+    "name": "Module-03-Mobile-with-ReactNative",
+    "slug": "Module-03-Mobile-with-ReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
