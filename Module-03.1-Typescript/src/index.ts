@@ -1,5 +1,5 @@
 import express from 'express';
-import { helloWorld } from './routes';
+import { helloWorld } from './route';
 
 const app = express();
 
