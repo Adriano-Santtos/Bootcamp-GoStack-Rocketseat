@@ -7,3 +7,4 @@ routes.use('/appointments', appointmentsRouter); // o .use funciona para qualque
 
 
 export default routes;
+
