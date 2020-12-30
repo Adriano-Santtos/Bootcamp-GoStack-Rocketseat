@@ -5,9 +5,6 @@
 
 <br/>
 
-------
-<br/>
-
 # What is GoStack bootcamp?
 [GoStack](https://pages.rocketseat.com.br/gostack) is an 8-week practical, intensive and online training focused on Node.js, ReactJS and React Native developed by [RocketSeat](https://rocketseat.com.br/).
 
