@@ -10,4 +10,4 @@
 
 In this challenge, an application was created to train what has been learned so far in Node.js with TypeScript, using the concept of models, repositories and services!
 
-This application performs the storage of incoming and outgoing financial transactions, also allowing the registration and listing of these transactions. 
+This application performs the storage of incoming and outgoing financial transactions, also allowing the registration and listing of these transactions.
