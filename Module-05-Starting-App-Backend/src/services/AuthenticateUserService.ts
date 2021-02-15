@@ -3,6 +3,7 @@ import {compare} from 'bcryptjs';
 import {sign} from 'jsonwebtoken';
 // import { hash } from 'bcryptjs';
 import User from '../models/User';
+import authConfig from '../config/auth';
 
 interface Request {
     email: string;
@@ -31,7 +32,7 @@ class AuthenticateUserService {
             throw new Error('incorret email/password combination');
         }
 
-        const token = sign({},'7ffc30ea5de5606bd799f31ad3f94761', {
+        const token = sign({},authConfig.jwt.secret, {
             subject:user.id, // sempre será o id do usuário que gerou o tokien
             expiresIn:'1d', //quanto tempo que o tokien vai durar
         });
