@@ -32,6 +32,8 @@ class AuthenticateUserService {
             throw new Error('incorret email/password combination');
         }
 
+            const {}
+
         const token = sign({},authConfig.jwt.secret, {
             subject:user.id, // sempre será o id do usuário que gerou o tokien
             expiresIn:'1d', //quanto tempo que o tokien vai durar
