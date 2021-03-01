@@ -5,6 +5,8 @@ import {sign} from 'jsonwebtoken';
 import User from '../models/User';
 import authConfig from '../config/auth';
 
+import AppError from '../errors/AppError';
+
 interface Request {
     email: string;
     password: string;
@@ -23,16 +25,15 @@ class AuthenticateUserService {
 
         const user = await usersRepository.findOne({where:{email}});
         if(!user) {
-            throw new Error ('incorret email/password combination');
+            throw new AppError ('incorret email/password combination', 401);
         }
 
         const passwordMatched = await compare(password, user.password);
 
         if(!passwordMatched) {
-            throw new Error('incorret email/password combination');
+            throw new AppError('incorret email/password combination', 401);
         }
 
-            const {}
 
         const token = sign({},authConfig.jwt.secret, {
             subject:user.id, // sempre será o id do usuário que gerou o tokien
