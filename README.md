@@ -24,7 +24,7 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{adriano-santtos/bootcamp-gostack-rocketseat?color=56BEB8" /> -->
 </p>
 
-Status
+<!-- Status -->
 
 <h4 align="center"> 
 	🚧  Bootcamp GoStack Rocketseat 🚀 Under construction...  🚧
