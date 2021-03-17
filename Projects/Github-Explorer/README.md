@@ -51,7 +51,7 @@
 
 <br>
 
-## :dart: About ##s
+## :dart: About ##
 
 The github explorer is a front end application developed during the GoStack bootcamp of [Rocketseat](https://rocketseat.com.br/).
 The application allows you to search existing repositories on [Github](https://github.com/) and obtain information such as: issues, forks and stars.
@@ -96,7 +96,7 @@ $ yarn start
 ```
 
 
-Made with :heart: by <a href="https://github.com/Adriano-Santtos" target="_blank">Adriano Santtos</a>
+Made by <a href="https://github.com/Adriano-Santtos" target="_blank">Adriano Santtos</a>
 
 &#xa0;
 
