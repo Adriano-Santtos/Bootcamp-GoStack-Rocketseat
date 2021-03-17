@@ -41,11 +41,14 @@
 </p>
 
 
-<img src="./src/assets/demo.gif" alt="demo" />
-
+<img src="./src/assets/demo.gif" alt="demo" >
 <br>
 
-  <p align="center" href="https://github-explorer-asanttos.vercel.app/"><strong>👉 Demo 👈</strong></p>
+  <p align="center">
+  <a 
+  href="https://github-explorer-asanttos.vercel.app/"><strong>👉 Demo 👈</strong>
+  </p>
+
 <br>
 
 ## :dart: About ##
