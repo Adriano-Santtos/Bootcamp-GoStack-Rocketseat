@@ -1,10 +1,9 @@
 <div align="center" id="top"> 
-  <img src="./src/assets/logo.svg" alt="Github Explorer" />
+  <img src="./src/assets/logo.svg" alt="Github Explorer" height=60 />
 
   &#xa0;
 
-  <a href="github-explorer-asanttos.vercel.app
-"><strong>Demo</strong></a>
+  <a href="https://github-explorer-asanttos.vercel.app/"><strong>Demo</strong></a>
 </div>
 
 <h1 align="center">Github Explorer</h1>
@@ -39,7 +38,6 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/Adriano-Santtos" target="_blank">Author</a>
 </p>
 
@@ -49,8 +47,8 @@
 
 ## :dart: About ##
 
-The github explorer is a front end application developed during the GoStack bootcamp of [Rocketseat] (https://rocketseat.com.br/).
-The application allows you to search existing repositories on [Github] (https://github.com/) and obtain information such as: issues, forks and stars.
+The github explorer is a front end application developed during the GoStack bootcamp of [Rocketseat](https://rocketseat.com.br/).
+The application allows you to search existing repositories on [Github](https://github.com/) and obtain information such as: issues, forks and stars.
 For this, the Github API was used.
 
 ## :sparkles: Features ##
@@ -90,12 +88,8 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/Adriano-Santtos" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/Adriano-Santtos" target="_blank">Adriano Santtos</a>
 
 &#xa0;
 
