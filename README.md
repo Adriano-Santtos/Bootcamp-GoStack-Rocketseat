@@ -27,19 +27,19 @@
 <!-- Status -->
 
 <h4 align="center"> 
-	🚧  Bootcamp GoStack Rocketseat 🚀 Under construction...  🚧
+	🚄  Bootcamp GoStack Rocketseat 🚀 In progress...  🚄
 </h4> 
 
 <hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <!-- <a href="#sparkles-features">Features</a> &#xa0; | &#xa0; -->
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Projects</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <!-- <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
-  <a href="https://github.com/{adriano-santtos" target="_blank">Author</a>
+  <a href="https://github.com/adriano-santtos" target="_blank">Author</a>
 </p>
 
 <br>
@@ -53,11 +53,6 @@ In GoStack the student goes deep into the technologies the entire ecosystem arou
 In GoStack the modules are released week by week according to the class schedule, using our method to give you security and show that you are assimilating all concepts through exercises and challenges..
 
 
-<!-- ## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3; -->
 
 ## :rocket: Technologies ##
 
@@ -71,6 +66,13 @@ The following tools were used in this project:
 - [Insomina](https://insomnia.rest/)
 - [Docker](https://www.docker.com/)
 - [PostgreSQL](https://www.postgresql.org/)
+
+
+## :sparkles: Projects ##
+
+Below are the projects developed during the bootcamp:
+
+- [Github Explorer](https://github.com/Adriano-Santtos/Bootcamp-GoStack-Rocketseat/tree/main/Projects/Github-Explorer)
 
 ## :white_check_mark: Requirements ##
 
@@ -99,7 +101,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
 
 
-Made with  by <a href="https://github.com/adriano-santtos" target="_blank">Adriano Santtos</a>
+Made by <a href="https://github.com/adriano-santtos" target="_blank">Adriano Santtos</a>
 
 &#xa0;
 
