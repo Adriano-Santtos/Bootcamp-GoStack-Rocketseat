@@ -9,19 +9,19 @@
 <h1 align="center">Github_explorer</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Adriano-Santtos/module-06?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Adriano-Santtos/Bootcamp-GoStack-Rocketseat/tree/main/Projects/Github-Explorer/color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Adriano-Santtos/module-06?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Adriano-Santtos/Bootcamp-GoStack-Rocketseat/tree/main/Projects/Github-Explorer/color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Adriano-Santtos/module-06?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Adriano-Santtos/Bootcamp-GoStack-Rocketseat/tree/main/Projects/Github-Explorer/color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Adriano-Santtos/module-06?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Adriano-Santtos/Bootcamp-GoStack-Rocketseat/tree/main/Projects/Github-Explorer/color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Adriano-Santtos/module-06?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Adriano-Santtos/Bootcamp-GoStack-Rocketseat/tree/main/Projects/Github-Explorer/color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Adriano-Santtos/module-06?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Adriano-Santtos/Bootcamp-GoStack-Rocketseat/tree/main/Projects/Github-Explorer/color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Adriano-Santtos/module-06?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Adriano-Santtos/Bootcamp-GoStack-Rocketseat/tree/main/Projects/Github-Explorer/color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
