@@ -4,7 +4,7 @@
   &#xa0;
 
   <a href="github-explorer-asanttos.vercel.app
-">Demo</a>
+"><strong>Demo</strong></a>
 </div>
 
 <h1 align="center">Github Explorer</h1>
@@ -49,14 +49,15 @@
 
 ## :dart: About ##
 
-O github explorer é um aplicação front-end desenvolvida durante o bootcamp GoStack da [Rocketseat](https://rocketseat.com.br/).
-A aplicação permite pesquisar repositórios existentes no [Github](https://github.com/) e obter informações como: issues, forks e stars.
-Para isso foi utilizada a API do Github.
+The github explorer is a front end application developed during the GoStack bootcamp of [Rocketseat] (https://rocketseat.com.br/).
+The application allows you to search existing repositories on [Github] (https://github.com/) and obtain information such as: issues, forks and stars.
+For this, the Github API was used.
 
 ## :sparkles: Features ##
 
-- Searching repositories
-- Return if repository or user does not exist
+👉 Searching repositories
+
+👉 Return if repository or user does not exist
 
 ## :rocket: Technologies ##
 
