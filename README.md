@@ -57,7 +57,7 @@ In GoStack the modules are released week by week according to the class schedule
 
 Below are the projects developed during the bootcamp:
 
-- [Github Explorer](https://github.com/Adriano-Santtos/Bootcamp-GoStack-Rocketseat/tree/main/Projects/Github-Explorer)
+- [Github Explorer](https://github.com/Adriano-Santtos/Bootcamp-GoStack-Rocketseat/tree/main/Github-Explorer)
 
 ## :rocket: Technologies ##
 
