@@ -46,12 +46,12 @@
 
   <p align="center">
   <a 
-  href="https://github-explorer-asanttos.vercel.app/"><strong>👉 Demo 👈</strong>
+  href="https://github-explorer-asanttos.vercel.app/" ><strong>👉 Demo 👈</strong></a>
   </p>
 
 <br>
 
-## :dart: About ##
+## :dart: About ##s
 
 The github explorer is a front end application developed during the GoStack bootcamp of [Rocketseat](https://rocketseat.com.br/).
 The application allows you to search existing repositories on [Github](https://github.com/) and obtain information such as: issues, forks and stars.
@@ -62,6 +62,7 @@ For this, the Github API was used.
 👉 Searching repositories
 
 👉 Return if repository or user does not exist
+
 
 ## :rocket: Technologies ##
 
