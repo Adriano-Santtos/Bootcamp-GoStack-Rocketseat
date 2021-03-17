@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./src/assets/logo.svg" alt="Github Explorer" />
+  <img src="./.github/app.gif" alt="Github Explorer" />
 
   &#xa0;
 
@@ -8,21 +8,20 @@
 
 <h1 align="center">Github Explorer</h1>
 
-
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Adriano-Santtos/github-explorer?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/adriano-santtos/github-explorer?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Adriano-Santtos/github-explorer?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/adriano-santtos/github-explorer?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Adriano-Santtos/github-explorer?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/adriano-santtos/github-explorer?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Adriano-Santtos/github-explorer?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/adriano-santtos/github-explorer?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Adriano-Santtos/github-explorer?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/adriano-santtos/github-explorer?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Adriano-Santtos/github-explorer?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/adriano-santtos/github-explorer?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Adriano-Santtos/github-explorer?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/adriano-santtos/github-explorer?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -40,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/Adriano-Santtos" target="_blank">Author</a>
+  <a href="https://github.com/adriano-santtos" target="_blank">Author</a>
 </p>
 
 <br>
@@ -73,7 +72,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Adriano-Santtos/github-explorer
+$ git clone https://github.com/adriano-santtos/github-explorer
 
 # Access
 $ cd github-explorer
@@ -92,7 +91,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/Adriano-Santtos" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/adriano-santtos" target="_blank">{{YOUR_NAME}}</a>
 
 &#xa0;
 
