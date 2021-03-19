@@ -82,7 +82,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/{adriano-santtos/bootcamp-gostack-rocketseat
+$ git clone https://github.com/adriano-santtos/bootcamp-gostack-rocketseat
 
 # Access
 $ cd bootcamp-gostack-rocketseat
