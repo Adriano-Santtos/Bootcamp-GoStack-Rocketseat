@@ -54,14 +54,17 @@
 ## :dart: About ##
 
 The github explorer is a front end application developed during the GoStack bootcamp of [Rocketseat](https://rocketseat.com.br/).
+
 The application allows you to search existing repositories on [Github](https://github.com/) and obtain information such as: issues, forks and stars.
 For this, the Github API was used.
 
-## :sparkles: Features ##
+## :sparkles:Upcoming Features ##
 
-👉 Searching repositories
+👉 Autocomplete na pesquisa;
 
-👉 Return if repository or user does not exist
+👉 Landing Page;
+
+👉 Dark Mode;
 
 
 ## :rocket: Technologies ##
